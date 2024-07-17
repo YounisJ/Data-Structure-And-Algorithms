@@ -1,6 +1,7 @@
 package dsa;
 
 public class FizzBuzz {
+    //
     public static void main(String[] args) {
         int k=1;
         
