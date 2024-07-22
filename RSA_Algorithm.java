@@ -57,7 +57,7 @@ public class RSA_Algorithm {
         // Encryption
         BigInteger encryptedMessage = rsa.encrypt(message);
         System.out.println("Encrypted Message: " + encryptedMessage);
-
+        System.out.println("")
         // Decryption
         BigInteger decryptedMessage = rsa.decrypt(encryptedMessage);
         System.out.println("Decrypted Message: " + decryptedMessage);
