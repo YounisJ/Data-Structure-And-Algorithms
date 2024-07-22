@@ -81,6 +81,7 @@ public class HanoiTowerGame extends JFrame {
     }
 
     public static void main(String[] args) {
+        System.out.println("");
         SwingUtilities.invokeLater(() -> new HanoiTowerGame());
     }
 }
