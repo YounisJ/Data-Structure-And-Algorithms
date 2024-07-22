@@ -16,7 +16,7 @@ public class DS_100_Stack {
        Books.push("Applied physics");
        
        
-       
+        System.out.println("");
         System.out.println("Is Stack empty : "+Books.empty());
         System.out.println("Poped           : "+Books.pop());
         System.out.println("At Top        : "+Books.peek());
