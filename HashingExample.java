@@ -32,6 +32,8 @@ public class HashingExample {
     public static void main(String[] args) {
         String input = "Hello, World!";
         String hash = sha256Hash(input);
+        System.out.println("");
+        System.out.println("");
         
         System.out.println("Input: " + input);
         System.out.println("SHA-256 Hash: " + hash);
