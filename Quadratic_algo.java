@@ -12,6 +12,7 @@ public class Quadratic_algo {
        a=input.nextInt();
        b=input.nextInt();
        c=input.nextInt();
+       System.out.println("") 
         
 //        
 //        D=(b*2)-4(a*c);
