@@ -17,7 +17,9 @@ public class FizzBuzz {
             
             else if(k%5==0)
             {
+                System.out.println("");
                 System.out.println("Buzz");
+                
             }
             else
             {
