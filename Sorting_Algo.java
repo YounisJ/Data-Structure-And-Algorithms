@@ -4,7 +4,6 @@ public class Sorting_Algo {
     public static void main(String[] args) {
         
        int[] arr={4,7,3,5};
-       
        for(int k=0; k<arr.length; k++)
        {
            int i=0;
@@ -26,6 +25,6 @@ public class Sorting_Algo {
            System.out.print(store+"  ");
        }
         System.out.println("");
-
+         System.out.println("")
     }
 }
