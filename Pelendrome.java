@@ -25,8 +25,10 @@ public class Pelendrome {
         
         if (count2==s.length()) {
             System.out.println("Pelendrome");
+            System.out.println("")
         } else {
             System.out.println("Not");
+            System.out.println("")
         }
 
 }
