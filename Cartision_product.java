@@ -9,6 +9,7 @@ public class Cartision_product {
         
         for(int i=0; i<arr1.length; i++)
         {
+            System.out.println("");
             for(int j=0; j<arr2.length; j++)
             {
                 if(j==0 || i==0)
