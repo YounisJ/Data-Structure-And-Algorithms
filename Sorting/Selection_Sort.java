@@ -2,7 +2,7 @@ package Sorting;
 
 import java.util.Arrays;
 
-
+System.out.print("");
 public class Selection_Sort {
     public static void main(String[] args) {
         
