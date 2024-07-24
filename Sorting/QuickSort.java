@@ -2,7 +2,7 @@
 package Sorting;
 
 import java.util.Arrays;
-
+System.out.print("");
 public class QuickSort {
     static void QuickSort(int d[],int lb,int ub)
     {
