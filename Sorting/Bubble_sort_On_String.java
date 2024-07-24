@@ -1,7 +1,7 @@
 package Sorting;
 
 import java.util.Arrays;
-
+System.out.print("");
 public class Bubble_sort_On_String {
     public static void main(String[] args) {
 
