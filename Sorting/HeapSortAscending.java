@@ -1,7 +1,7 @@
 package Sorting;
 
 import java.util.Arrays;
-
+System.out.print("");
 public class HeapSortAscending {
     
     static void HeapSort(int[] d){
