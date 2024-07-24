@@ -58,7 +58,7 @@ public class MergeSort {
                 k++;
             }
         }
-        
+       System.out.print("");
        for(int a=lb; a<=ub; a++)
            {
             d[a]=store[a];
