@@ -1,7 +1,7 @@
 package Sorting;
 
 import java.util.Arrays;
-
+System.out.print("");
 public class Insertion_Sort {
     public static void main(String[] args) {        
 
